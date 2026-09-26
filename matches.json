@@ -1,0 +1,30 @@
+[
+  {
+    "id": "match-1",
+    "home": "نيميبيا",
+    "away": "تونس",
+    "time": "2026-09-25 20:00",
+    "status": "soon",
+    "league": "كأس أمم إفريقيا",
+    "channels": ["beIN Sports 1"],
+    "commentator": "عصام الشوالي"
+  },
+  {
+    "id": "match-2",
+    "home": "بلجيكا",
+    "away": "إيطاليا",
+    "time": "2026-09-25 20:00",
+    "status": "soon",
+    "league": "دوري أبطال أوروبا",
+    "channels": ["beIN Sports 2"]
+  },
+  {
+    "id": "match-3",
+    "home": "تركيا",
+    "away": "فرنسا",
+    "time": "2026-09-25 21:00",
+    "status": "soon",
+    "league": "دوري أبطال أوروبا",
+    "channels": ["beIN Sports 1"]
+  }
+]
