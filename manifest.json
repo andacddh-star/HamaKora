@@ -2,14 +2,14 @@
   "name": "koora",
   "short_name": "koora",
   "description": "موقع رياضي",
-  "start_url": "/",
+  "start_url": "https://hamakora.blogspot.com/",
   "display": "standalone",
   "background_color": "#f0f3f7",
   "theme_color": "#0984e3",
   "orientation": "portrait-primary",
   "lang": "ar",
   "dir": "rtl",
-  "scope": "/",
+  "scope": "https://hamakora.blogspot.com/",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgBsXE3HhtZZyhjoXmbN5PAFKz2pRIsD3s4VG_rwe3XAMHBvLdr727IW245EHLjfJ589J6qvh9DcGjqcWNWjdHj9MWGRPcl7aT9cOpEYNdJ2bZBVBIn-QzZ-RB6kKmIHbcjdoZw0VJBhMbRMAjQk8ZKUn5rzsXURZxinAa30H5Nw24z-LM_w1kzFxQdfqs=s192",
