@@ -27,4 +27,15 @@
     "league": "دوري أبطال أوروبا",
     "channels": ["beIN Sports 1"]
   }
+  ,
+  {
+    "id": "match-4",
+    "home": "الهلال",
+    "away": "النصر",
+    "time": "2026-10-15 21:00",
+    "status": "soon",
+    "league": "الدوري السعودي",
+    "channels": ["beIN Sports 1"],
+    "commentator": "عصام الشوالي"
+  }
 ]
